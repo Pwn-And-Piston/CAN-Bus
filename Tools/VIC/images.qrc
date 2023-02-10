@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/vic_ui_3.png</file>
+        <file>images/About_Dialog.png</file>
+        <file>images/abs.png</file>
+        <file>images/coyote_crop.ico</file>
+        <file>images/coyote_crop.png</file>
+        <file>images/engine.png</file>
+        <file>images/high_beam.png</file>
+        <file>images/Left_Blink_Animation.png</file>
+        <file>images/Right_Blink_Animation.png</file>
+        <file>images/speed.png</file>
+        <file>images/speed_animation.png</file>
+        <file>images/t_control.png</file>
+        <file>images/tpms.png</file>
+        <file>images/turn_left.png</file>
+        <file>images/turn_right.png</file>
+    </qresource>
+</RCC>
